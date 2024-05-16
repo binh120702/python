@@ -1,0 +1,8 @@
+VLNER/*
+!VLNER/.gitkeep
+data_phase_1/*
+!data_phase_1/.gitkeep
+.env
+.devcontainer
+.github
+__pycache__
