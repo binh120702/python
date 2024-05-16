@@ -1,0 +1,2 @@
+# Vietnamese Legal NER 
+Baseline 
